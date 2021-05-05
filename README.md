@@ -22,6 +22,21 @@ Then you can run the app in development mode with:
 npm start
 ```
 
+## Users
+
+User credentials to log in:
+
+```
+email: it@drixit.com
+password: some-password
+````
+or
+
+```
+email: info@drixit.com
+password: other-password
+```
+
 ## Redux
 
 Three reducers were implemented in this project:
