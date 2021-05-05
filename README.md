@@ -47,6 +47,10 @@ Three reducers were implemented in this project:
 
 They are used to manage the user interface, authentication and user states respectively.
 
+## Configuration
+
+You can find and edit the configuration in .env files located in the root directory
+
 ## Extra documentation
 
 More documentation (written using JSDoc) can be found in the source code.
